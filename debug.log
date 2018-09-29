@@ -1,0 +1,3 @@
+[0803/174342.726:ERROR:settings.cc(319)] Settings magic is not 1129342067
+[0808/165754.027:ERROR:process_info.cc(359)] UncheckedAllocate
+[0808/165846.981:ERROR:process_info.cc(359)] UncheckedAllocate
